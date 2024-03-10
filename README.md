@@ -2,7 +2,7 @@
 ## RPC Server Code
 rpc-https-auth-server.py
 
-## RPC Clienr Code with Authentication
+## RPC Client Code with Authentication
 rpc-https-auth-server.py
 This is the client code for update content in DB, get a topic content from DB, Get URLs from Wiki for a topic and append the URLs in the topic
 
