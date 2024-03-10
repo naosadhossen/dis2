@@ -8,4 +8,4 @@ This is the client code for update content in DB, get a topic content from DB, G
 
 ## RPC Client Code with No Authentication 
 rpc-https-noauth-client.py
-This is a simple client to demonstarte that server will refuse connection if no credential is provided by client
+This is a simple client to demonstrate that server will refuse the connection if no credential is provided by client
