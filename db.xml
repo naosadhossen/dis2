@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<data>
+    
+
+    <topic name="Helsinki">
+        <note name="note1">
+            <text>text1</text>
+            <timestamp>03/10/24 - 12:26:37</timestamp>
+        </note>
+        <WikiSearch>
+            https://en.wikipedia.org/wiki/Helsinki
+https://en.wikipedia.org/wiki/Helsinki_Airport
+https://en.wikipedia.org/wiki/Helsinki_Metro
+https://en.wikipedia.org/wiki/Helsinki_Central_Station
+https://en.wikipedia.org/wiki/Helsinki_(parliamentary_electoral_district)
+            <timestamp>03/10/24 - 12:29:30</timestamp>
+        </WikiSearch>
+    </topic>
+</data>
